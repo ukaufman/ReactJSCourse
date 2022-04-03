@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.rulers": [
+    {
+      "column": 80,
+      "color": "#444444"
+    },
+    {
+      "column": 100,
+      "color": "#444444"
+    }
+  ]
+}
